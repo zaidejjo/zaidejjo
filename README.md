@@ -35,9 +35,8 @@ Building scalable, clean-coded systems with an obsession for performance and dev
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **LearnCore** <br/> <img src="https://img.shields.io/badge/LIVE_PRODUCTION-00E5FF?style=flat-square&logo=vercel&logoColor=0D1117" /> | Django + DRF + Redis | High-throughput rate-limited API serving 5M+ requests/month. |
+| **[LearnCore LC](https://learncore-lc.onrender.com)** <br/> <img src="https://img.shields.io/badge/LIVE_PRODUCTION-00E5FF?style=flat-square&logo=render&logoColor=0D1117" /> | Django + DRF + Redis | Comprehensive B2B ERP system featuring a high-throughput rate-limited API serving 5M+ requests/month. |
 | **ArchVue Dashboard** <br/> <img src="https://img.shields.io/badge/LIVE_PRODUCTION-00E5FF?style=flat-square&logo=vercel&logoColor=0D1117" /> | Vue 3 + Pinia + Django | Real-time system monitor for Arch Linux servers. |
-
 ---
 
 ## 📊 GitHub Analytics
