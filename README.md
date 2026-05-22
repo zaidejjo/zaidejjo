@@ -35,7 +35,7 @@ Building scalable, clean-coded systems with an obsession for performance and dev
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **Logix API** <br/> <img src="https://img.shields.io/badge/LIVE_PRODUCTION-00E5FF?style=flat-square&logo=vercel&logoColor=0D1117" /> | Django + DRF + Redis | High-throughput rate-limited API serving 5M+ requests/month. |
+| **LearnCore** <br/> <img src="https://img.shields.io/badge/LIVE_PRODUCTION-00E5FF?style=flat-square&logo=vercel&logoColor=0D1117" /> | Django + DRF + Redis | High-throughput rate-limited API serving 5M+ requests/month. |
 | **ArchVue Dashboard** <br/> <img src="https://img.shields.io/badge/LIVE_PRODUCTION-00E5FF?style=flat-square&logo=vercel&logoColor=0D1117" /> | Vue 3 + Pinia + Django | Real-time system monitor for Arch Linux servers. |
 
 ---
@@ -53,9 +53,9 @@ Building scalable, clean-coded systems with an obsession for performance and dev
 
 <p align="center">
   <a href="https://linkedin.com/in/zaidejjo"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
-  <a href="https://twitter.com/zaidejjo"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00E5FF" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00E5FF" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
+  <a href="https://x.com/zaid_ejjo"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00E5FF" /></a>
+  <a href="mailto:zaidejjodev@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
+  <a href="https://zaidejjo.github.io"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
 </p>
 
 <p align="center">
