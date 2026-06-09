@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer;Django+%2B+Vue.js+Architect;Arch+Linux+%7C+%23IUseArchBTW" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer;Django+%2B+React+Architect;Arch+Linux+%7C+%23IUseArchBTW" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## ⚡ About Me
 
-Senior Backend Engineer specializing in **Django** · Expanding into **Full-Stack with Vue.js** · Hardcore **Arch Linux** user  
+Senior Backend Engineer specializing in **Django** · Expanding into **Full-Stack with React** · Hardcore **Arch Linux** user  
 
 Building scalable, clean-coded systems with an obsession for performance and developer ergonomics.
 
@@ -27,7 +27,7 @@ Building scalable, clean-coded systems with an obsession for performance and dev
 
 | Backend | Frontend | Tools & OS |
 |---------|----------|-------------|
-| <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=00E5FF" /> | <img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat-square&logo=vue.js&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00E5FF" /> | <img src="https://img.shields.io/badge/Linux_Arch-0D1117?style=flat-square&logo=arch-linux&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/Zed_Editor-0D1117?style=flat-square&logo=zed-industries&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=00E5FF" /> |
+| <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=00E5FF" /> | <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00E5FF" /> | <img src="https://img.shields.io/badge/Linux_Arch-0D1117?style=flat-square&logo=arch-linux&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/Zed_Editor-0D1117?style=flat-square&logo=zed-industries&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=00E5FF" /> |
 
 ---
 
@@ -36,7 +36,7 @@ Building scalable, clean-coded systems with an obsession for performance and dev
 | Project | Stack | Description |
 |---------|-------|-------------|
 | **[Madar Core - MC](https://madarcore.onrender.com)** <br/> <img src="https://img.shields.io/badge/LIVE_PRODUCTION-00E5FF?style=flat-square&logo=render&logoColor=0D1117" /> | Django + DRF + Redis | Comprehensive B2B ERP system featuring a high-throughput rate-limited API serving 5M+ requests/month. |
-| **ArchVue Dashboard** <br/> <img src="https://img.shields.io/badge/LIVE_PRODUCTION-00E5FF?style=flat-square&logo=vercel&logoColor=0D1117" /> | Vue 3 + Pinia + Django | Real-time system monitor for Arch Linux servers. |
+| **ArchVue Dashboard** <br/> <img src="https://img.shields.io/badge/LIVE_PRODUCTION-00E5FF?style=flat-square&logo=vercel&logoColor=0D1117" /> | React + Pinia + Django | Real-time system monitor for Arch Linux servers. |
 ---
 
 ## 📊 GitHub Analytics
