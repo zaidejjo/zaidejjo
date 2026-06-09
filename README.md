@@ -8,11 +8,9 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
-Senior Backend Engineer specializing in **Django** · Expanding into **Full-Stack with React** · Hardcore **Arch Linux** user  
-
-Building scalable, clean-coded systems with an obsession for performance and developer ergonomics.
+Senior Backend Engineer specializing in **Django** and expanding into full-stack architecture with **React**. Hardcore **Arch Linux** user focused on building scalable, clean-coded systems with a strong emphasis on performance and developer ergonomics.
 
 > *“Keep it simple, but not simpler.”*
 
@@ -23,23 +21,24 @@ Building scalable, clean-coded systems with an obsession for performance and dev
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-| Backend | Frontend | Tools & OS |
-|---------|----------|-------------|
-| <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=00E5FF" /> | <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00E5FF" /> | <img src="https://img.shields.io/badge/Linux_Arch-0D1117?style=flat-square&logo=arch-linux&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/Zed_Editor-0D1117?style=flat-square&logo=zed-industries&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=00E5FF" /> |
+| Backend | Frontend | Databases & Caching | Tools & OS |
+|---------|----------|---------------------|------------|
+| <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF" /><br><img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=00E5FF" /><br><img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00E5FF" /> | <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00E5FF" /><br><img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00E5FF" /><br><img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00E5FF" /> | <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00E5FF" /><br><img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00E5FF" /> | <img src="https://img.shields.io/badge/Linux_Arch-0D1117?style=flat-square&logo=arch-linux&logoColor=00E5FF" /><br><img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00E5FF" /><br><img src="https://img.shields.io/badge/Zed_Editor-0D1117?style=flat-square&logo=zed-industries&logoColor=00E5FF" /> |
 
 ---
 
-## 🚀 Production Showcase
+## Production Showcase
 
 | Project | Stack | Description |
 |---------|-------|-------------|
 | **[Madar Core - MC](https://madarcore.onrender.com)** <br/> <img src="https://img.shields.io/badge/LIVE_PRODUCTION-00E5FF?style=flat-square&logo=render&logoColor=0D1117" /> | Django + DRF + Redis | Comprehensive B2B ERP system featuring a high-throughput rate-limited API serving 5M+ requests/month. |
-| **ArchVue Dashboard** <br/> <img src="https://img.shields.io/badge/LIVE_PRODUCTION-00E5FF?style=flat-square&logo=vercel&logoColor=0D1117" /> | React + Pinia + Django | Real-time system monitor for Arch Linux servers. |
+| **ArchVue Dashboard** <br/> <img src="https://img.shields.io/badge/LIVE_PRODUCTION-00E5FF?style=flat-square&logo=vercel&logoColor=0D1117" /> | React + Context API + Django | Real-time system monitor dashboard designed specifically for Arch Linux servers. |
+
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zaidejjo&show_icons=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" width="48%" />
@@ -48,7 +47,7 @@ Building scalable, clean-coded systems with an obsession for performance and dev
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/zaidejjo"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
