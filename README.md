@@ -16,7 +16,7 @@ Full Stack Engineer specializing in **Django** and **Vue/Nuxt**. Hardcore **Arch
 
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-I%20Use%20Arch%20BTW-0D1117?style=flat-square&logo=linux&logoColor=00E5FF&labelColor=0D1117&color=00E5FF" />
+  <img src="https://img.shields.io/badge/-I%20Use%20Arch%20BTW-0D1117?style=flat-square&logo=linux&logoColor=white&labelColor=0D1117&color=000000" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Full Stack Engineer specializing in **Django** and **Vue/Nuxt**. Hardcore **Arch
 | Project | Tech Stack | Key Features |
 | :--- | :--- | :--- |
 | <img src="https://github.com/zaidejjo/zaidejjo.github.io/blob/main/astro/public/madarcore-260.svg" alt="Madar Core Logo" width="40" /><br/>**[Madar Core MC](https://madarcore.onrender.com)** | **Backend:** Django, Django Ninja, FastAPI (for AI microservices) <br/> **Frontend:** Nuxt.js <br/> **Database & Cache:** PostgreSQL, Redis <br/> **Payments:** Stripe | • Complete B2B ERP system for educational institutions.<br/> • AI-powered assistant hub built with high-performance FastAPI microservices.<br/> • Real-time class chats, assignments, and gamified learning modules.<br/> • High-throughput rate-limited API handling 5M+ requests/month.<br/> • Integrated payment gateway for subscriptions and fees. |
-| <img src="https://github.com/zaidejjo/ajo-cli/blob/main/web/images/logo.png" alt="AJO CLI Logo" width="40" /><br/>**[ajo cli](https://ajo-cli.pages.dev)** <br/> **[GitHub Repo](https://github.com/zaidejjo/ajo-cli)** | **Backend:** Django, Django Ninja <br/> **Database:** PostgreSQL, MySQL, SQLite <br/> **Cache:** Redis <br/> **Frontend:** Nuxt.js (for the interactive showcase) <br/> **CI/CD:** GitHub Actions | • Professional Django and Nuxt.js project scaffolder with a cyberpunk TUI.<br/> • Supports multiple architectures: Monolith, REST API, Ninja API, GraphQL API, and Docker.<br/> • Interactive CLI with smart diagnostics and one-click auto-fixes.<br/> • Generates production-ready projects with integrated GitHub Actions CI/CD.<br/> • Features a live web simulator showcasing the scaffolding workflow. |
+| <img src="https://github.com/zaidejjo/ajo-cli/blob/main/web/images/logo.png" alt="AJO CLI Logo" width="40" /><br/>**[ajo cli](https://ajo-cli.pages.dev)** <br/>  | **Backend:** Django, Django Ninja <br/> **Database:** PostgreSQL, MySQL, SQLite <br/> **Cache:** Redis <br/> **Frontend:** Nuxt.js (for the interactive showcase) <br/> **CI/CD:** GitHub Actions | • Professional Django and Nuxt.js project scaffolder with a cyberpunk TUI.<br/> • Supports multiple architectures: Monolith, REST API, Ninja API, GraphQL API, and Docker.<br/> • Interactive CLI with smart diagnostics and one-click auto-fixes.<br/> • Generates production-ready projects with integrated GitHub Actions CI/CD.<br/> • Features a live web simulator showcasing the scaffolding workflow. |
 
 ## GitHub Analytics
 
@@ -45,7 +45,7 @@ Full Stack Engineer specializing in **Django** and **Vue/Nuxt**. Hardcore **Arch
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 I love connecting with fellow developers, tech enthusiasts, and creators from all around the world. Drop a message or follow my journey here:
 
