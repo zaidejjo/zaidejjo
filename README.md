@@ -10,7 +10,7 @@
 
 ## About Me
 
-Full Stack Engineer specializing in **Django** and **Vue/Nuxt**. Hardcore **Arch Linux** user focused on building scalable, clean-coded systems with a strong emphasis on performance and developer ergonomics.
+Hi I'am Zaid Ajo. Full Stack Engineer specializing in **Django** and **Vue/Nuxt**. Hardcore **Arch Linux** user focused on building scalable, clean-coded systems with a strong emphasis on performance and developer ergonomics.
 
 > *“Keep it simple, but not simpler.”*
 
