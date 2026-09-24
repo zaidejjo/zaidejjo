@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Zaid+Ajo+%7C+Full-Stack+%26+Systems+Engineer;Django+%2B+Vue%2FNuxt+%7C+Rust+%2B+C;Arch+Linux+%7C+%23IUseArchBTW" alt="Zaid Ajo - Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Zaid+Ajo+%7C+Full-Stack+%26+Systems+Engineer;Django+%2B+Vue%2FNuxt+%7C+Rust+%2B+C;%23I+Use+Arch+BTW" alt="Zaid Ajo - Typing SVG" />
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ Full Stack & Systems Engineer specializing in **Django**, **Vue/Nuxt**, and low-
 | Project | Tech Stack | Key Features |
 | :--- | :--- | :--- |
 | <img src="https://github.com/zaidejjo/zaidejjo.github.io/blob/main/astro/public/madarcore-260.svg" alt="Madar Core Logo" width="42" /><br/>**[Madar Core](https://madarcore.onrender.com)** | <img src="https://skillicons.dev/icons?i=django,fastapi,nuxtjs,postgres,redis,stripe" alt="Madar Core Stack" height="28" /> | • **B2B ERP System** for educational institutions.<br/>• **AI Assistant Hub** via high-performance FastAPI microservices.<br/>• Real-time class chats, gamified learning & 5M+ req/mo API. |
-| **[ZZ Language](https://github.com/zaidejjo/zz)** | <img src="https://skillicons.dev/icons?i=rust,c" alt="ZZ Stack" height="28" /> | • **Blazing Fast Systems Language** written in **100k+ lines of Rust & C**.<br/>• **Dual-Engine Architecture:** VM for fast dev/debugging & AOT compiler for production.<br/>• **Self-Hosting Core:** Compiler written in Rust, C, and ZZ itself. |
+| <img src="https://zz-lang.pages.dev/500-500-logo.png" alt="ZZ Logo" width="42" /><br/>**[ZZ lang](https://github.com/zaidejjo/zz)** | <img src="https://skillicons.dev/icons?i=rust,c" alt="ZZ Stack" height="28" /> | • **Blazing Fast Systems Language** written in **100k+ lines of Rust & C**.<br/>• **Dual-Engine Architecture:** VM for fast dev/debugging & AOT compiler for production.<br/>• **Self-Hosting Core:** Compiler written in Rust, C, and ZZ itself. |
 | <img src="https://github.com/zaidejjo/zgit/blob/main/images/logo.png" alt="Zgit Logo" width="42" /><br/>**[Zgit](https://github.com/zaidejjo/zgit)** | <img src="https://skillicons.dev/icons?i=go,react,tailwind,ts" alt="Zgit Stack" height="28" /> | • **All-in-One Git & GitHub Client** combining local Git with PRs, Issues & Actions.<br/>• **Dual Experience:** Full Terminal UI (TUI) + Cross-platform Desktop App (Wails/React).<br/>• **AI Integrated:** Automated commit generation, PR descriptions & 3-way merge editor. |
 
 ---
