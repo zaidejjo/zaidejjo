@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Zaid+Ajo+%7C+Full-Stack+%26+Systems+Engineer;Django+%2B+Vue%2FNuxt+%7C+Rust+%2B+C;%23I+Use+Arch+BTW" alt="Zaid Ajo - Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;Django+%2B+Vue%2FNuxt+%7C+Rust+%2B+C;%23I+Use+Arch+BTW" alt="Zaid Ajo - Typing SVG" />
 </p>
 
 <p align="center">
